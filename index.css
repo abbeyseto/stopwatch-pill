@@ -1,0 +1,25 @@
+canvas{
+  background-color: magenta;
+  border-radius: 250px;
+  border: 2px solid black;
+}
+
+.buttons{
+    height:30px; 
+    width:75px;  
+	   margin:0 auto; 
+     padding: 0;
+     display: flex; 
+     justify-content: center;
+    
+}
+button{
+  border-radius: 5px;
+}
+div#controlButtons {
+    
+    width: 405px;
+    background-color: lightblue;
+    padding: 0;
+
+}
